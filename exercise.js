@@ -8,7 +8,7 @@ class Orang = {
     Bekerja(){
         console.log(`${this.nama} sedang bekerja seperti biasa`);
     }
-    const user1 = new Orang('rivaldo', "20");
+    const user1 = new Orang('claudio', "21");
     user1.Bekerja();
 }
 //Inheritance
